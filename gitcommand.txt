@@ -10,3 +10,4 @@ git checkout idOfcommit -> to see files before commiting this git id
 git revert idOfcommit -> to  delete the commit of respective git id
 
 git checkout -f -> to restore the last file before change 
+git branch -> to create a new  branch 
