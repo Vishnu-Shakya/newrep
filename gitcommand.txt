@@ -1,0 +1,12 @@
+git init -> to initialise 
+git status -> to show which currently changes
+git rm --cached filename -> to delete a file  and stand it on working area 
+git rm filename -> delete a file completly
+
+git add filename -> to save changes 
+git commit -m 'author ' -> to save commit 
+git log --oneline -> to hissory of commited 
+git checkout idOfcommit -> to see files before commiting this git id 
+git revert idOfcommit -> to  delete the commit of respective git id
+
+git checkout -f -> to restore the last file before change 
